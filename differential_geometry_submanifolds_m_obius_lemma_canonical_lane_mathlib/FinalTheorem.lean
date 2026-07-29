@@ -1,0 +1,9 @@
+import differential_geometry_submanifolds_m_obius_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace differential_geometry_submanifolds_m_obius_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end differential_geometry_submanifolds_m_obius_lemma_canonical_lane_mathlib
+end HautevilleHouse
